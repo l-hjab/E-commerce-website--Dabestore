@@ -2,8 +2,8 @@
    scroll-behavior:smooth;
  }
 body {
-    margin: 0px;
-    padding: 0px;
+    margin: 0 auto;
+    padding: 20px;
     height: 100vh;
    box-sizing:border-box;
    overflow-x:hidden;
@@ -220,7 +220,7 @@ a:hover {
     text-shadow:none;
 }
 .div2 p {
-    color:maroon;
+    color:gray;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
     text-align: center;
@@ -263,7 +263,7 @@ h1:hover{
         text-shadow: 2px 2px 4px gray;
     }
 .row1 .col1 p{
-    color:lightseagreen;
+    color:darkorange;
     font-weight:bold;
     display:inline-block;
     cursor:default;
