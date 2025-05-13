@@ -1,3 +1,12 @@
-# An e-commerce-website 
-A simple e-commerce website using html,css and php and Javascript
-Install Xammp and run the code
+# An e-commerce-website
+#languages used
+ Html
+ Css
+ Javascript
+
+ #Tools used 
+ Visual Studio
+ Git
+ Chrome
+
+ 
