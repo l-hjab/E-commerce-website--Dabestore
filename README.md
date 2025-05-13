@@ -1,7 +1,3 @@
-# E-commerce-website--Dabestore
-languages used
-html
-css
-javascript
- Tools Used
- Visual studio code
+# An e-commerce-website 
+A simple e-commerce website using html,css and php and Javascript
+Install Xammp and run the code
